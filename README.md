@@ -1,6 +1,9 @@
 # Project Aim
 The banking sector plays a crucial role in the financial ecosystem, contributing significantly to economic growth and our daily lives. A key concern for banks is the attrition of clients who close their credit accounts, impacting business and profitability. This project aims to identify the primary factors leading to account closures, predict future occurrences, and provide actionable recommendations to mitigate this issue.
 
+# Dataset
+The dataset contains information on U.S. customers holding credit cards, encompassing various social, economic, and financial factors for a national credit card provider. Each row represents a customer who either canceled or retained their service. The response variable, customer_status, indicates whether the account is 'Closed' or 'Active'. The predictor variables include details about the customers’ socioeconomic factors and credit card activity.
+
 # Key Insights
 We analyzed customer behavior, noting that clients who spent more and had higher transaction volumes in Q1 compared to Q4 were more likely to close their accounts. Additional insights include a higher propensity for account closures among customers with blue cards, part-time employees, and those with doctoral degrees. Interestingly, the average duration before account closure is approximately 36 months, with customers in their forties and fifties being more prone to account closure.
 
