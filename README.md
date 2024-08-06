@@ -15,16 +15,12 @@ Based on the findings of my research, I recommend the following steps for bank e
 
 ## Monitor Spending and Transaction Data: 
 Bank executives should closely monitor customers' spending and transaction patterns to predict potential account closures.
-
 ## Focus on At-Risk Age Groups: 
 Customers aged 35 to 55 are more likely to close their accounts. Bank employees should prioritize this demographic, understanding their challenges through continuous feedback.
-
 ## Engage Full-Time and Part-Time Employees: 
 Since full-time and part-time employees account for 90% of account closures, it is likely they face dissatisfaction with banking services such as payroll processing and check deposits. Regular contact through telephonic surveys with well-structured questionnaires can help address their concerns.
-
 ## Address Blue Card User Concerns: 
 Given that blue card users represent the majority of account closures, banks should focus on improving services related to these credit cards.
-
 ## Retain Specific Demographics: 
 Customers with doctoral degrees, part-time employment, low credit utilization, and lower incomes are more likely to close their accounts. Bank management should develop strategies to retain these customers, such as creating questionnaires to gather credit history and demographic information. The insights gained should be used to tailor retention strategies.
 
